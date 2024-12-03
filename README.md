@@ -60,20 +60,20 @@ To download the FineSports dataset, please sign the [Release Agreement](agreemen
 $DATASET_ROOT
 ├── FineSports
 |  ├── BallDelivered
-|     ├── 235457267_1
+|     ├── 00002_1
 |        ├── 00001.jpg
 |        ...
 |        └── 00005.jpg
 |     ...
-|     └── 235457437_1
+|     └── 00012_1
 |        ├── 00001.jpg
 |        ...
 |        └── 00005.jpg
 |  ...
-|  └── 235720298_0
-|     ├── 00001.jpg
+|  └── ToShootersRight
+|     ├── 00095_0
 |     ...
-|     └── 00013.jpg
+|     └── 09955_0
 
 $ANNOTATIONS_ROOT
 |  ├── FineSports-GT.pkl
